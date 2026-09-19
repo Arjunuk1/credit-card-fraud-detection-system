@@ -93,8 +93,6 @@ The trained model is evaluated using relevant classification metrics such as:
 - F1-score
 - ROC-AUC
 
-These metrics help determine how reliable the model is and how well it generalizes to unseen data.
-
 ### 6. Prediction
 Once the model is trained and validated, it can be used to predict whether a new customer profile is likely to default.
 
